@@ -29,3 +29,7 @@ timestamp,plant_ids,event_type,details
 2025-07-16 11:22:20,colombian-gold-1,training,"{""technique"": ""topping"", ""notes"": ""Segunda poda topo realizada.""}"
 2025-07-16 11:22:20,gorilla-glue-1,observation,"{""event"": ""germination"", ""plant_name"": ""gorilla glue""}"
 2025-07-16 11:23:23,sugar-bomb-1,diagnostic,"{""symptom"": ""A planta parou de consumir água."", ""possible_cause"": ""Estresse hídrico intenso."", ""notes"": ""Investigando se a planta morreu ou se apenas perdeu todas as folhas.""}"
+2025-07-17 17:01:25,colombian-gold-1,training,"{""technique"": ""lollipopping""}"
+2025-07-17 17:01:25,furtado-1,training,"{""technique"": ""lollipopping adjustment"", ""notes"": ""Remoção de ramificações fracas e galhos baixos.""}"
+2025-07-17 17:01:25,"miss-crazy-1,banana-punch-1",training,"{""technique"": ""defoliation"", ""reason"": ""Remoção de excesso de folhas e folhas secas.""}"
+2025-07-17 17:01:25,"colombian-gold-1,furtado-1,miss-crazy-1,banana-punch-1",watering,"{""volume_L_total"": 4, ""solution"": ""água""}"
